@@ -1,11 +1,10 @@
 {
     "defaultSeverity": "error",
     "extends": [
-        "tslint:recommended",
-        "tslint:latest",
-        "tslint-config-prettier"
+        "tslint-config-airbnb"
     ],
     "jsRules": {},
     "rules": {},
+    "typedef-whitespace": true,
     "rulesDirectory": []
 }
